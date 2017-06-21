@@ -1,0 +1,64 @@
+[ 2017-06-21T18:22:16+08:00 ] /mb_oa/index.php/Index/index | DEBUG: Tag[ route_check ] --START--
+[ 2017-06-21T18:22:16+08:00 ] /mb_oa/index.php/Index/index | DEBUG: Run CheckRoute Behavior [ RunTime:0.001312s ]
+[ 2017-06-21T18:22:16+08:00 ] /mb_oa/index.php/Index/index | DEBUG: Tag[ route_check ] --END-- [ RunTime:0.002682s ]
+[ 2017-06-21T18:22:16+08:00 ] /mb_oa/index.php/Index/index | NOTIC: [2] preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead Dispatcher.class.php 第 111 行.
+[ 2017-06-21T18:22:16+08:00 ] /mb_oa/index.php/Index/index | DEBUG: Tag[ app_begin ] --START--
+[ 2017-06-21T18:22:16+08:00 ] /mb_oa/index.php/Index/index | DEBUG: Run CheckTemplate Behavior [ RunTime:0.000363s ]
+[ 2017-06-21T18:22:16+08:00 ] /mb_oa/index.php/Index/index | DEBUG: Tag[ app_begin ] --END-- [ RunTime:0.000382s ]
+[ 2017-06-21T18:22:42+08:00 ] /mb_oa/index.php/register/sendMessage | DEBUG: Tag[ route_check ] --START--
+[ 2017-06-21T18:22:42+08:00 ] /mb_oa/index.php/register/sendMessage | DEBUG: Run CheckRoute Behavior [ RunTime:0.000286s ]
+[ 2017-06-21T18:22:42+08:00 ] /mb_oa/index.php/register/sendMessage | DEBUG: Tag[ route_check ] --END-- [ RunTime:0.000350s ]
+[ 2017-06-21T18:22:42+08:00 ] /mb_oa/index.php/register/sendMessage | NOTIC: [2] preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead Dispatcher.class.php 第 111 行.
+[ 2017-06-21T18:22:42+08:00 ] /mb_oa/index.php/register/sendMessage | DEBUG: Tag[ app_begin ] --START--
+[ 2017-06-21T18:22:42+08:00 ] /mb_oa/index.php/register/sendMessage | DEBUG: Run CheckTemplate Behavior [ RunTime:0.000134s ]
+[ 2017-06-21T18:22:42+08:00 ] /mb_oa/index.php/register/sendMessage | DEBUG: Tag[ app_begin ] --END-- [ RunTime:0.000148s ]
+[ 2017-06-21T18:27:41+08:00 ] /mb_oa/index.php?m=register&a=sendMessage | DEBUG: Tag[ app_begin ] --START--
+[ 2017-06-21T18:27:41+08:00 ] /mb_oa/index.php?m=register&a=sendMessage | DEBUG: Run CheckTemplate Behavior [ RunTime:0.000356s ]
+[ 2017-06-21T18:27:41+08:00 ] /mb_oa/index.php?m=register&a=sendMessage | DEBUG: Tag[ app_begin ] --END-- [ RunTime:0.000430s ]
+[ 2017-06-21T18:28:09+08:00 ] /mb_oa/index.php/register/register | DEBUG: Tag[ route_check ] --START--
+[ 2017-06-21T18:28:09+08:00 ] /mb_oa/index.php/register/register | DEBUG: Run CheckRoute Behavior [ RunTime:0.000286s ]
+[ 2017-06-21T18:28:09+08:00 ] /mb_oa/index.php/register/register | DEBUG: Tag[ route_check ] --END-- [ RunTime:0.000365s ]
+[ 2017-06-21T18:28:09+08:00 ] /mb_oa/index.php/register/register | NOTIC: [2] preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead Dispatcher.class.php 第 111 行.
+[ 2017-06-21T18:28:09+08:00 ] /mb_oa/index.php/register/register | DEBUG: Tag[ app_begin ] --START--
+[ 2017-06-21T18:28:09+08:00 ] /mb_oa/index.php/register/register | DEBUG: Run CheckTemplate Behavior [ RunTime:0.000134s ]
+[ 2017-06-21T18:28:09+08:00 ] /mb_oa/index.php/register/register | DEBUG: Tag[ app_begin ] --END-- [ RunTime:0.000148s ]
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ route_check ] --START--
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Run CheckRoute Behavior [ RunTime:0.000613s ]
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ route_check ] --END-- [ RunTime:0.000686s ]
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [2] preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead Dispatcher.class.php 第 111 行.
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ app_begin ] --START--
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Run CheckTemplate Behavior [ RunTime:0.000395s ]
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ app_begin ] --END-- [ RunTime:0.000414s ]
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: mobile registerAction.class.php 第 15 行.
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: identity registerAction.class.php 第 16 行.
+[ 2017-06-21T18:41:39+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: passworld registerAction.class.php 第 17 行.
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ route_check ] --START--
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Run CheckRoute Behavior [ RunTime:0.000309s ]
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ route_check ] --END-- [ RunTime:0.000361s ]
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [2] preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead Dispatcher.class.php 第 111 行.
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ app_begin ] --START--
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Run CheckTemplate Behavior [ RunTime:0.000137s ]
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ app_begin ] --END-- [ RunTime:0.000150s ]
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: mobile registerAction.class.php 第 15 行.
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: identity registerAction.class.php 第 16 行.
+[ 2017-06-21T18:43:07+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: passworld registerAction.class.php 第 17 行.
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ route_check ] --START--
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Run CheckRoute Behavior [ RunTime:0.000313s ]
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ route_check ] --END-- [ RunTime:0.000356s ]
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [2] preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead Dispatcher.class.php 第 111 行.
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ app_begin ] --START--
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Run CheckTemplate Behavior [ RunTime:0.000140s ]
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ app_begin ] --END-- [ RunTime:0.000156s ]
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: mobile registerAction.class.php 第 15 行.
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: identity registerAction.class.php 第 16 行.
+[ 2017-06-21T18:43:31+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: passworld registerAction.class.php 第 17 行.
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ route_check ] --START--
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Run CheckRoute Behavior [ RunTime:0.000279s ]
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ route_check ] --END-- [ RunTime:0.000315s ]
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [2] preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead Dispatcher.class.php 第 111 行.
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ app_begin ] --START--
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Run CheckTemplate Behavior [ RunTime:0.000132s ]
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | DEBUG: Tag[ app_begin ] --END-- [ RunTime:0.000145s ]
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: mobile registerAction.class.php 第 15 行.
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: identity registerAction.class.php 第 16 行.
+[ 2017-06-21T18:44:49+08:00 ] /mb_oa/index.php/register/register/mobile/111/identity/dddd/passworld/1111 | NOTIC: [8] Undefined index: passworld registerAction.class.php 第 17 行.
