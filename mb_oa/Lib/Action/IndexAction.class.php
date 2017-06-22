@@ -1,6 +1,7 @@
 <?php
 	
-	require("./ConnectMysqli.php");
+	require("./mb_oa/Lib/Action/ConnectMysqli.php");
+	require("./mb_oa/Lib/Action/labelUtils.php");
 // 本类由系统自动生成，仅供测试用途
 class IndexAction extends Action {
     public function index(){
@@ -8,8 +9,10 @@ class IndexAction extends Action {
         echo '<div style="font-weight:normal;color:blue;float:left;width:345px;text-align:center;border:1px solid silver;background:#E8EFFF;padding:8px;font-size:14px;font-family:Tahoma">^_^ Hello,欢迎使用<span style="font-weight:bold;color:red">ThinkPHP</span></div>';
     }
 
+    /**连接数据库
+    */
     public function xiaobei(){
-    	$db=ConnectMysqli::getIntance();
- 		var_dump($db);
+   		$mysqli=labelUtils::connectDB();
+   		
     }
 }
