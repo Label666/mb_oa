@@ -1,4 +1,6 @@
 <?php
+	
+	require("./ConnectMysqli.php");
 // 本类由系统自动生成，仅供测试用途
 class IndexAction extends Action {
     public function index(){
@@ -7,6 +9,7 @@ class IndexAction extends Action {
     }
 
     public function xiaobei(){
-    	echo $_GET['c'];
+    	$db=ConnectMysqli::getIntance();
+ 		var_dump($db);
     }
 }
